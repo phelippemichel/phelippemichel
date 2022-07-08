@@ -21,7 +21,7 @@ My name is Phelippe Michel, I am a Physical Education professional in career tra
 
 <strong>🛠️Languages and Tools:</strong>
 
-<img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"><img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><!--<img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"><img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-->
 <img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 
 
@@ -32,7 +32,7 @@ My name is Phelippe Michel, I am a Physical Education professional in career tra
 </div>
 
 
-
+<!-- TIRAR OS COMENTÁRIOS APÓS FOR APRENDENDO AS LINGUAGENS. LINHA 24 -->
 
 
 
