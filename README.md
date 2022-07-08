@@ -18,6 +18,7 @@ My name is Phelippe Michel, I am a Physical Education professional in career tra
 <img height="30em" src ="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div>
 
+
 <strong>🛠️Languages and Tools:</strong>
 
 <img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"><img align="center" alt="brasa" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
