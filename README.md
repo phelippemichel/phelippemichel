@@ -27,8 +27,8 @@ My name is Phelippe Michel, I am a Physical Education professional in career tra
 
 <div>
 <a href="https://github.com/phelippemichel/github-readme-stats">
-<img height="200em"  src="https://github-readme-stats.vercel.app/api?username=phelippemichel&show_icons=true&theme=tokyonight"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelippemichel&langs_count=8"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=phelippemichel&show_icons=true&theme=tokyonight"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
 </div>
 
 
