@@ -12,10 +12,10 @@ I'm Phelippe Michel, a Software Engineer from 🇧🇷 Brazil.
 <!--- My roadmap to knowledge representation Click **[HERE](https://github.com/phelippemichel/my-roadmap/blob/main/README.md)** -->
 
 ### 🛠️ Tools
-- Language: Typescript, NodeJS, C#/.NET
+- Language: Typescript, NodeJS, Python
 - Database: MySQL, MongoDB
 - Devops: Docker
-- Cloud: AWS, Azure 
+- Cloud: AWS
 
 ### 👋🏻  Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/phelippemichel/)
