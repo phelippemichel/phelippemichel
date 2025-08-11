@@ -7,12 +7,14 @@ I'm Phelippe Michel, a Software Engineer from 🇧🇷 Brazil.
 - 👩🏻‍💻 Software Engineer
 - 🎓 Technology in Systems Analysis and Development at [Federal University of Rio Grande do Norte](https://ufrn.br)
 
+<!-- 
 ### 📚 Projects & Guides 
 - Welcome to my portfolio, where I showcase my **[projects.](https://github.com/phelippemichel/Portfolio-Guide/blob/main/README.md)**
-<!--- My roadmap to knowledge representation Click **[HERE](https://github.com/phelippemichel/my-roadmap/blob/main/README.md)** -->
+My roadmap to knowledge representation Click **[HERE](https://github.com/phelippemichel/my-roadmap/blob/main/README.md)**
+-->
 
 ### 🛠️ Tools
-- Language: Typescript, NodeJS, Python
+- Language: Typescript, Python, NodeJS, Django
 - Database: MySQL, MongoDB
 - Devops: Docker
 - Cloud: AWS
